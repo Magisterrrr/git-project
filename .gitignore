@@ -1,0 +1,5 @@
+# folder for ignore
+wignorFolder/
+
+#txt-files ignore
+#docs/*.txt 
