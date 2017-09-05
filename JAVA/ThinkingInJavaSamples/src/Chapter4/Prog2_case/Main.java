@@ -15,14 +15,14 @@ public class Main {
                 case 'i':
                 case 'o':
                 case 'u':
-                    System.out.println("голосна");
+                    System.out.println("голосна!");
                     break;
                 case 'y':
                 case 'w':
-                    System.out.println("умовно голосна");
+                    System.out.println("умовно голосна!");
                     break;
                 default:
-                    System.out.println("приголосна");
+                    System.out.println("приголосна!");
             }
         }
     }
